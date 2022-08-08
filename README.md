@@ -15,5 +15,3 @@ I'm a Software Engineer, Content Creator, Tech rapper, a perfectionist, I'm pass
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickylazi&langs_count=8&layout=compact&hide_border=true" alt="Micky's GitHub stats" /> |
-| ------------- | ------------- |
